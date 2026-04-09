@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #111111;
+  color: white;
+}
+
+header {
+  background-color: black;
+  text-align: center;
+  padding: 15px;
+}
+
+nav {
+  margin-top: 10px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+section {
+  padding: 20px;
+}
+
+h1, h2 {
+  color: gold;
+}
+
+button {
+  background-color: gold;
+  color: black;
+  border: none;
+  padding: 10px 15px;
+}
+
+input, textarea {
+  width: 250px;
+  padding: 8px;
+  margin-bottom: 10px;
+}
